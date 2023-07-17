@@ -8543,7 +8543,7 @@ input[type=color] {
 }
 @media (max-width: 767px) {
   .tp-service-4-item::after {
-    background-color: #3137D2;
+    background-color: #17b932;
     height: 100%;
   }
 }
